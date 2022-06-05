@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Filmovi>
+   <Film>
+      <Naslov>Interstellar</Naslov>
+      <Direktor>Christopher Nolan</Direktor>
+      <Glumci>
+        <Glumac>Matthew McConaughey </Glumac>
+        <Glumac>Anne Hathaway</Glumac>
+      </Glumci>
+      <Cijena>69.99</Cijena>
+      <Zanr>Sci-Fi</Zanr>
+      <GodinaObjave>2014</GodinaObjave>
+      <Trajanje>2h:49min</Trajanje>
+  </Film>
+  <Film>
+      <Naslov>Good Will Hunting</Naslov>
+      <Direktor>Gus Van Sant</Direktor>
+      <Glumci>
+        <Glumac>Matt Damon</Glumac>
+        <Glumac>Robin Williams</Glumac>
+      </Glumci>
+      <Cijena>49.99</Cijena>
+      <Zanr>Drama</Zanr>
+      <GodinaObjave>1997</GodinaObjave>
+      <Trajanje>2h:6min</Trajanje>
+  </Film>
+  <Film>
+      <Naslov>The Pursuit of Hapiness</Naslov>
+      <Direktor>Gabrielle Muccino</Direktor>
+      <Glumci>
+        <Glumac>Will Smith</Glumac>
+        <Glumac>Jaden Smith</Glumac>
+     </Glumci>
+      <Cijena>64.99</Cijena>
+      <Zanr>Drama Biography</Zanr>
+      <GodinaObjave>2006</GodinaObjave>
+      <Trajanje>1h:57min</Trajanje>
+  </Film>
+  <Film>
+      <Naslov>Seven</Naslov>
+      <Direktor>David Fincher</Direktor>
+      <Glumci>
+        <Glumac>Brad Pitt</Glumac>
+        <Glumac>Morgan Freeman</Glumac>
+     </Glumci>
+      <Cijena>49.99</Cijena>
+      <Zanr>Mystery</Zanr>
+      <GodinaObjave>1995</GodinaObjave>
+      <Trajanje>2h:7min</Trajanje>
+  </Film>
+  <Film>
+      <Naslov>Braveheart</Naslov>
+      <Direktor>Mel Gibson</Direktor>
+      <Glumci>
+        <Glumac>Mel Gibson</Glumac>
+        <Glumac>Sophie Marceau</Glumac>
+     </Glumci>
+      <Cijena>54.99</Cijena>
+      <Zanr>History</Zanr>
+      <GodinaObjave>1995</GodinaObjave>
+      <Trajanje>2h:58min</Trajanje>
+  </Film>
+  <Film>
+      <Naslov>Dark Knight</Naslov>
+      <Direktor>Christopher Nolan</Direktor>
+      <Glumci>
+          <Glumac>Heath Ledger</Glumac>
+          <Glumac>Christian Bale</Glumac>
+      </Glumci>
+      <Cijena>44.99</Cijena>
+      <Zanr>Sci-Fi</Zanr>
+      <GodinaObjave>1994</GodinaObjave>
+      <Trajanje>2h:32min</Trajanje>
+  </Film>
+</Filmovi>
